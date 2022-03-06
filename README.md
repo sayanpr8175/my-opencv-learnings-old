@@ -18,3 +18,10 @@
 
 
 ![Carrom board no queen found](https://github.com/sayanpr8175/my-opencv-learnings-old/blob/main/snapshots/noqueenFound.PNG)
+
+
+## Used resources :
+
+- [ ] https://www.udemy.com/course/opencv-fundamentals/
+- [ ] (updated 2021 resources - https://pyimagesearch.com/2021/05/12/adaptive-thresholding-with-opencv-cv2-adaptivethreshold/)
+- [ ] (updated 2021 resources - https://pyimagesearch.com/2021/04/28/opencv-smoothing-and-blurring/)
