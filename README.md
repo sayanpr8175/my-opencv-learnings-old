@@ -1,4 +1,4 @@
-# My old Opencv learnings
+# My old Opencv learnings 
 
 ## Four projects are listed below
 
@@ -11,4 +11,10 @@
 
 ## Some project snapshots
 
-![This is an image](https://github.com/sayanpr8175/my-opencv-learnings-old/blob/f12897a903af3210e502ab9be215605f5b62b52c/snapshots/cadbury_detector.PNG)
+![Cadbury gems counter](https://github.com/sayanpr8175/my-opencv-learnings-old/blob/f12897a903af3210e502ab9be215605f5b62b52c/snapshots/cadbury_detector.PNG)
+
+
+![Carrom board queen found](https://github.com/sayanpr8175/my-opencv-learnings-old/blob/ba84f5af6ea295b2780550504c40c099c74f2305/snapshots/queen_found.PNG)
+
+
+![Carrom board no queen found](https://github.com/sayanpr8175/my-opencv-learnings-old/blob/main/snapshots/noqueenFound.PNG)
